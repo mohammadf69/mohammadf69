@@ -1,15 +1,15 @@
-# سلام، من محمد 👋
+# Hi, I'm Mohammad 👋
 
-من یک برنامه‌نویس وب و علاقه‌مند به تکنولوژی‌های مدرن هستم.  
-تخصص من **Backend با C# و ASP.NET Core** است و در مسیر تبدیل شدن به **Full-Stack Developer** هستم.
+I'm a backend-focused software developer specializing in **C#**, **ASP.NET Core**, and **SQL**.  
+My long-term goal is to become a **Full-Stack Developer** by expanding into modern frontend frameworks such as **Vue.js** and **Angular**.
 
 ---
 
-## 💻 مهارت‌ها
+## 🧰 Skills & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-239120?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=azure-sql-database&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,32 +19,31 @@
 
 ---
 
-## 📈 آمار GitHub
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadf69&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadf69&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔗 لینک‌ها
+## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohammad-fattahi-776a34152">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/USERNAME">
+
+  <a href="https://github.com/mohammadf69">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://YOUR-WEBSITE.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📌 پروژه‌های مهم
-| پروژه | توضیح | لینک |
-|--------|-------|------|
-| Project1 | توضیح کوتاه پروژه 1 | [GitHub](https://github.com/USERNAME/Project1) |
-| Project2 | توضیح کوتاه پروژه 2 | [GitHub](https://github.com/USERNAME/Project2) |
-| Project3 | توضیح کوتاه پروژه 3 | [GitHub](https://github.com/USERNAME/Project3) |
+## 📌 Featured Projects
+| Project | Description | Link |
+|--------|-------------|------|
+| **Project 1** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
+| **Project 2** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
+| **Project 3** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
+

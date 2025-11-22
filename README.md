@@ -43,7 +43,6 @@ My long-term goal is to become a **Full-Stack Developer** by expanding into mode
 ## 📌 Featured Projects
 | Project | Description | Link |
 |--------|-------------|------|
-| **Project 1** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
-| **Project 2** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
-| **Project 3** | Short description of your project. | [GitHub](https://github.com/mohammadf69) |
+| **Project 1** | Short description of your project. | [GitHub](WebAutomationSystem
+) |
 

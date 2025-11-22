@@ -38,11 +38,5 @@ My long-term goal is to become a **Full-Stack Developer** by expanding into mode
   </a>
 </p>
 
----
-
-## 📌 Featured Projects
-| Project | Description | Link |
-|--------|-------------|------|
-| **Project 1** | Short description of your project. | [GitHub](WebAutomationSystem
-) |
+-
 

@@ -1,44 +1,142 @@
 # Hi, I'm Mohammad 👋
 
-I'm a backend-focused software developer specializing in **C#**, **ASP.NET Core**, and **SQL**.  
-My long-term goal is to become a **Full-Stack Developer** by expanding into modern frontend frameworks such as **Vue.js** and **Angular**.
+### Backend Developer | C# | ASP.NET Core | SQL Server
+
+I'm a **backend-focused software developer** with professional experience building and maintaining business applications using **C#**, **.NET**, **ASP.NET Core**, and **SQL Server**.
+
+My current focus is strengthening my backend engineering skills, especially **RESTful Web APIs, Entity Framework Core, SQL Server, MongoDB, clean architecture, SOLID principles, testing, and Docker**.
 
 ---
 
-## 🧰 Skills & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
-   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
-</p>
+## 🛠️ Tech Stack
+
+### Backend
+
+- C#
+- .NET / ASP.NET Core
+- ASP.NET Core Web API
+- ASP.NET Core MVC
+- Entity Framework Core
+- LINQ
+- REST API
+- Dependency Injection
+
+### Databases
+
+- SQL Server
+- T-SQL / Stored Procedures
+- MongoDB
+- Redis
+
+### Architecture & Engineering
+
+- SOLID Principles
+- Clean Code
+- Layered Architecture
+- Repository Pattern
+- Unit of Work
+- Design Patterns
+- Dependency Injection
+- Microservices fundamentals
+
+### Tools
+
+- Git / GitHub
+- Docker
+- Visual Studio
+- Swagger / OpenAPI
+- Serilog
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadf69&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadf69&layout=compact&theme=radical" />
-</p>
+## 🚀 Featured Projects
+
+### 🛒 Shoping_Micro
+
+A learning-focused microservices project built with **ASP.NET Core, MongoDB, and layered architecture**.
+
+Focus areas:
+
+- Catalog service
+- MongoDB
+- Seed data
+- REST API
+- Dependency Injection
+- Clean architecture principles
+- Unit testing
+
+🔗 [View Repository](https://github.com/mohammadf69/Shoping_Micro)
+
+### 🌐 WebAutomationSystem
+
+An ASP.NET Core MVC business application demonstrating a layered architecture with **SQL Server and Entity Framework Core**.
+
+Focus areas:
+
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Authentication & Authorization
+- Admin/User areas
+- Layered architecture
+
+🔗 [View Repository](https://github.com/mohammadf69/WebAutomationSystem)
+
+### 📚 AspLearning_1
+
+A practical ASP.NET Core learning project covering a broad range of backend concepts.
+
+Focus areas:
+
+- ASP.NET Core MVC
+- Controllers & Routing
+- Model Binding
+- Middleware
+- Entity Framework Core
+- SQL Server
+- Redis
+- Response & Output Caching
+- Serilog
+- ElmahCore
+
+🔗 [View Repository](https://github.com/mohammadf69/AspLearning_1)
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-fattahi-776a34152">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 📖 Currently Learning
 
-  <a href="https://github.com/mohammadf69">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Advanced ASP.NET Core Web API
+- Entity Framework Core
+- RESTful API design
+- SQL Server and advanced T-SQL
+- MongoDB
+- Docker
+- Software architecture
+- Clean Code & Design Patterns
+- Testing and maintainable backend development
 
--
+---
 
+## 🎯 Career Direction
+
+My primary goal is to grow into a **strong backend software engineer** who can design, implement, debug, and maintain real-world business systems.
+
+I'm particularly interested in roles involving:
+
+- C# / .NET
+- ASP.NET Core
+- Web API
+- SQL Server
+- Backend system development
+- Business applications
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-fattahi-776a34152)
+- 💻 [GitHub](https://github.com/mohammadf69)
+
+---
+
+> Building software, learning from real projects, and improving one commit at a time. 🚀
